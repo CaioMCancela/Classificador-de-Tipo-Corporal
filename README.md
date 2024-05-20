@@ -1,7 +1,3 @@
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://i.ibb.co/jrSygVb/logocompleta.jpg" alt="Logo Completa" style="width: 100%;">
-</p>
-
 # Programa Classificador de Tipo Corporal
 ### Explicação do Programa
 Este programa solicita ao usuário que informe a idade. Se a idade fornecida for igual ou superior a 18 anos, o programa solicita também o peso. Com base na idade e no peso fornecidos, o programa determina a modalidade corporal do usuário da seguinte forma:
